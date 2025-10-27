@@ -1025,6 +1025,10 @@ Version:	1.1
 	padding: 20px 0;
 }
 
+#logo {
+	height: 60px;
+	width: fit-content;
+}
 
 }
 /* Mobile Screen */
@@ -1299,10 +1303,9 @@ Version:	1.1
 .footer .footer-top {
 	padding: 65px 0px;
 }
-
-
-
-
-
+#logo {
+	height: 60px;
+	width: fit-content;
+}
 
 }
